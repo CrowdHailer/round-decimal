@@ -1,0 +1,28 @@
+{
+  "name": "round-decimal",
+  "version": "0.1.0",
+  "description": "Round decimal numbers to a given precision using decimal places or significat figures",
+  "main": "round.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrowdHailer/round-decimal.git"
+  },
+  "keywords": [
+    "round",
+    "decimal",
+    "curried",
+    "precision",
+    "precise",
+    "accuracy",
+    "rounding"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/round-decimal/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/round-decimal#readme"
+}
